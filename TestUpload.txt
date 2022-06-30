@@ -1,3 +1,9 @@
 tEST
 
 Add New Version of Code
+
+Profile code added
+
+Chat Screen added
+
+Password module updated
