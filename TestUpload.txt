@@ -7,3 +7,7 @@ Profile code added
 Chat Screen added
 
 Password module updated
+
+Adding audio call feature
+
+Adding the video call feature
